@@ -37,8 +37,8 @@ Solution hint
 Construct a graph from the triples and use Dijkstra's algorithm for single-source shortest paths.
 
 Full solution
+visit:http://www.iarcs.org.in/inoi/contests/apr2005/Advanced-1-solution.php
 
-.
 Input format
 
 The first line of the input has three numbers M, A and B. M is the number of triples. The next M lines (lines 2,3,...,M+1) describe the triples. Line i+1 contains the three positive integers Xi, Yi and Zi that make up the ith triple. Your task is to find the value of the least value chain connecting A and B.
