@@ -22,7 +22,7 @@ In this problem you will be given a sequence of triples of positive integers. Fo
 
 Given a pair of numbers A and B, a chain connecting A and B is a sequence of triples
 
-A0 W0 A1,   A1 W1 A2,   A2 W2 A3,   ... Ak-2 Wk-2 Ak-1,   Ak-1 Wk-1 Ak
+A0 W0 A1,   A1 W1 A2,   A2 W2 A3,   ... Ak-2 Wk-2 Ak-1,   Ak-1 Wk-1 Ak
 
 such that
 
