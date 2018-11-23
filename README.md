@@ -1,5 +1,5 @@
 # Number-Triples
-This a solution for finding shortest path from given vertex to the destination vertex using dijkstra's algorithm.
+This is a solution for finding shortest path from given vertex to the destination vertex using dijkstra's algorithm.
 
 follow Question.txt for detailed view of the problem.
 
